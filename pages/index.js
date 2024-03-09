@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Orbit OS:" />
         <p className="description">
-          we test the bounderys of software, hardware and security.
+          we test the bounderys of software, hardware and security. we're also open source!
         </p>
       </main>
 
